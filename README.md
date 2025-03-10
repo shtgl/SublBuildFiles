@@ -30,6 +30,8 @@ To add the above build systems to your Sublime Text environment, follow these st
 4. Run the program using the shortcut command Ctrl+B, which activates the build system for the programming language.
 
 ## Sublime dev settings
+*Supports macOS, Windows, or Linux*
+
 Every developer needs settings that suit their practical thinking and provide a focused environment. This helps them design functional and efficient code. I am sharing a file of Sublime preferences for day-to-day coding. We can choose any preferences based on which settings are more practical. 
 
 To access the preferences, follow below steps - 
