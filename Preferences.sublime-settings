@@ -1,0 +1,32 @@
+{
+    "color_scheme": "Mariana.sublime-color-scheme",
+    "theme": "auto",
+    "margin": 10,
+    "font_size": 12,
+    "drag_text": false,
+    "spell_check": true,
+    "hot_exit": "disabled",
+    "match_tags": false,
+    "show_encoding": true,
+    "auto_complete": false,
+    "auto_match_enabled": false,
+
+    "index_files": true,
+    "show_full_path": false,
+    "show_definitions": false,
+    "enable_tab_scrolling": false,
+    "overlay_scroll_bars": "enabled",
+    "translate_tabs_to_spaces": true,
+    "copy_with_empty_selection": false,
+    "ensure_newline_at_eof_on_save": true,
+    
+    "caret_style": "blink",
+    "caret_extra_top": 0,
+    "caret_extra_bottom": 0,
+    "line_padding_top": 2,
+    "line_padding_bottom": 2,
+
+    "bold_folder_labels": true,
+    "highlight_modified_tabs": true,
+
+}
