@@ -24,7 +24,7 @@ To add the above build systems to your Sublime Text environment, follow these st
 <div align="center" > <img src="steps/6.png"> </div>
 3. Run the program!
 
-*Alternatively*
+#### Alternatively
 1. Click on the "Tools" button in the menu bar.
 <div align="center" > <img src="steps/7.png"> </div>
 2. Select the "Build System" option from the "Tools" menu.
