@@ -26,3 +26,13 @@ To add the above build systems to your Sublime Text environment, follow these st
 2. Select the "Build System" option from the "Tools" menu.
 3. Choose one of the builds for the particular programming language your code is written in.
 4. Run the program using the shortcut command Ctrl+B, which activates the build system for the programming language.
+
+## Sublime dev settings
+Every developer needs settings that suit their practical thinking and provide a focused environment. This helps them design functional and efficient code. I am sharing a file of Sublime preferences for day-to-day coding. We can choose any preferences based on which settings are more practical. 
+
+To access the preferences, follow below steps - 
+1. Click on the "Preferences" button in the menu bar.
+2. Select the "Settings" option from the "Preferences" menu.
+3. The above step opens a side-by-side window. Most likely, on your system, the default Sublime settings will be on the left-hand side. To add custom settings, you can edit them in the window on the right-hand side.
+4. Copy and paste preferences into your `Preferences.sublime-settings` file to replicate the settings.
+5. Congratulations! You have successfully added the custom settings to your Sublime environment.
