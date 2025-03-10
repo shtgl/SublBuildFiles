@@ -1,6 +1,8 @@
 # Sublime Build Systems and Settings
 ## Sublime Build System
 
+*Supports Windows OS*
+
 To add the above build systems to your Sublime Text environment, follow these steps:
 
 ### Method 1 - Using the code snippet
