@@ -1,15 +1,21 @@
 {
     "color_scheme": "Mariana.sublime-color-scheme",
-    "theme": "auto",
+    "theme": "Default Dark.sublime-theme",
     "margin": 10,
-    "font_size": 12,
+    "font_size": 10,
+    "font_face": "Reddit Mono",
     "drag_text": false,
-    "spell_check": true,
+    // "spell_check": true,
     "hot_exit": "disabled",
     "match_tags": false,
     "show_encoding": true,
-    "auto_complete": false,
-    "auto_match_enabled": false,
+    "rulers":
+    [
+        72,
+        79
+    ],
+    // "auto_complete": false,
+    // "auto_match_enabled": false,
 
     "index_files": true,
     "show_full_path": false,
@@ -23,10 +29,18 @@
     "caret_style": "blink",
     "caret_extra_top": 0,
     "caret_extra_bottom": 0,
-    "line_padding_top": 2,
-    "line_padding_bottom": 2,
+    "line_padding_top": 1,
+    "line_padding_bottom": 1,
 
     "bold_folder_labels": true,
     "highlight_modified_tabs": true,
+    "highlight_line": true,
+    "highlight_gutter": false,
 
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+    "dark_color_scheme": "Mariana.sublime-color-scheme",
+    "light_color_scheme": "Breakers.sublime-color-scheme",
 }

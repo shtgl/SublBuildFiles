@@ -1,0 +1,28 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+    "variables":
+    {
+        "base_tint": "#acacac",
+        "sidebar_bg": "#2c2a2d",
+        "sidebar_heading": "#acacac",
+        "sidebar_label": "#acacac",
+        "sidebar_row_selected": "#312f31",
+        "sidebar_label_selected": "#F3F3F3",
+        "sidebar_heading_shadow": "#2c2a2d",
+        "status_bar_bg": "#42383A",
+        "status_bar_label_color": "#F3F3F3",
+        "panel_bg": "#2c2a2d",
+        "button_bg": "#2c2a2d",
+        "button_label_color": "#F3F3F3",
+        "button_label_shadow": "#2c2a2d",
+        "icon_button_highlight": "#2c2a2d"
+    },
+    "rules":
+    [
+        {
+            "class": "title_bar",
+            "style":"dark"
+        },
+        
+    ]
+}

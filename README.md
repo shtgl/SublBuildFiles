@@ -56,3 +56,22 @@ To access the preferences, follow below steps -
 4. Copy and paste preferences into your `Preferences.sublime-settings` file to replicate the settings.<div align="center" > <img src="steps/10.png"> </div>
 
 5. Congratulations! You have successfully added the custom settings to your Sublime environment.
+
+## Sublime color settings
+*Supports macOS, Windows, or Linux*
+
+To modify colors or more specifically theme and color scheme of sublime-text, follow below steps - 
+1. Click on the "Preferences" button in the menu bar.
+<ul>
+
+a. Click on `Select Color Scheme` and choose `Mariana`.
+
+b. Click on `Select Theme` and choose `Default Dark`.
+
+c. Select `Customize Color Scheme` in Sublime text, and paste the settings from **Mariana.sublime-color-scheme** present inside <a href="Colors/Mariana.sublime-color-scheme">Colors folder</a>
+
+d. Select `Customize Theme` in Sublime text, and paste the settings from **Default Dark.sublime-theme** present inside <a href="Colors/Default Dark.sublime-theme">Colors folder</a>
+
+</ul>
+
+2. Congratulations! You have successfully added the custom settings to your Sublime environment.

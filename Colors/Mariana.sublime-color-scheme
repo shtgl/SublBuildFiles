@@ -1,0 +1,15 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {
+    },
+    "globals":
+    {
+        "background": "#282629",
+        "line_highlight": "#2c2a2d"
+    },
+    "rules":
+    [
+        
+    ]
+}
